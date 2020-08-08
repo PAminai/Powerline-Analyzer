@@ -12,6 +12,5 @@ The outputs of analysis are **Voltage Regulation** and **Efficiency** of power s
 **Note:**
 You only need to run **Main_File.m** and no need to open **PSA.m**. Because PSA.m is a function called in the Main_File.m.
 
-Any feedback is warmly appreciated.
-
+Any feedback is kindly appreciated.
 
