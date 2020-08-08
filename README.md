@@ -9,3 +9,9 @@ This program can analyze powerline based on following modes:
 
 The output of this analysis are **Voltage Regulation** and **Efficiency** of power system.
 
+**Note:**
+You only need to run **Main_File.m** and no need to open **PSA.m**. Because PSA.m is a function called in the Main_File.m.
+
+Any feedback is warmly appreciated.
+
+
