@@ -1,4 +1,4 @@
-# Powerline Analizer
+# Powerline Analyzer
 
 This program can analyze powerline based on following modes:
 
